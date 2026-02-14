@@ -85,9 +85,7 @@ let musicStarted = false;
 const yesBtn = document.getElementById("yesBtn");
 const noBtn = document.getElementById("noBtn");
 const messageBox = document.getElementById("message");
-
 const music = new Audio("nanna-gudi.mp3");
-music.loop = true;
 
 const messages = [
   "Inond sathi youchne maadu kenchi 🥹",
